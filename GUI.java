@@ -5,6 +5,6 @@ System.out.print("this is a GUI project");
 String first = JOptionPane.showInputDialog("Please enter your fist name ");
 String second = JOptionPane.showInputDialog("enter your last  name ");
 int a = Integer.parseInt(JOptionPane.showInputDialog("nice work! Now enter your age"));
-JOptionPane.showMessageDialog(null, "neem ka patta kadva hai "+ first+ "  "+second+" sala bhen ka loda " +a+" saal ka gandva hai");
+JOptionPane.showMessageDialog(null, " hi "+ first+ "  "+second+" you are  " +a+" Years old");
  }
 }
